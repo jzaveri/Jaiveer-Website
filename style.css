@@ -1,5 +1,6 @@
 /*===== Google Fonts =====*/
 @import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Roboto&display=swap');
 /*===== Global CSS =====*/
 html
 {
@@ -345,9 +346,11 @@ html
 .about-section .about-image,
 .about-section .about-content
 {
+    font-family: "Roboto", sans-serif;
     flex: 0 0 50%;
     max-width: 100%;
     padding: 20px;
+    font-size: 25px
 }
 .about-section .about-image .img-box
 {
