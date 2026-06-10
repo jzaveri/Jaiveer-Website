@@ -1,3 +1,4 @@
+
 /*===== Google Fonts =====*/
 @import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Roboto&display=swap');
@@ -677,6 +678,11 @@ footer .copyright-text
     .about-section .about-content,
     .portfolio .portfolio-item,
     .contact-section .contact-item,
-    .contact-section .w-50
+    .contact-section .w-50 {
+
+    }
 }
+
 hr { background-color: yellow; height: 5px; border: 0; }
+
+
